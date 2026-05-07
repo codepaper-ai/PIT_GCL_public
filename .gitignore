@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs / outputs
+*.log
+outputs/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Local data caches
+data/
+datasets/
+*.cache
+
+# Large training artifacts (keep only published checkpoints under checkpoints/)
+last_checkpoint.pt
+history.json
