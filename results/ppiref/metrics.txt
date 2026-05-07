@@ -1,0 +1,11 @@
+DT-TopoGT — PPIRef Test Metrics
+========================================
+Checkpoint  : checkpoints/ppiref/best_model.pt
+Split JSON  : path/to/data/PPIRef/ppiref/data/splits/ppiref_6A_filtered_clustered_04.json
+N pairs     : 10242
+neg_ratio   : 1
+----------------------------------------
+AUROC       : 0.9325
+AUPRC       : 0.9377
+ACC         : 0.8480
+F1          : 0.8469

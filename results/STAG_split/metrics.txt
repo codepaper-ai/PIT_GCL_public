@@ -1,0 +1,13 @@
+DT-TopoGT — STAG Test Metrics
+===================================
+Checkpoint : checkpoints/stag/best_model.pt
+Test dir   : path/to/data/STAG_datasplit/complete/test
+N pairs    : 6350
+-----------------------------------
+AUC        : 0.8725
+ACC        : 0.8633
+F1         : 0.6999
+
+
+PR-AUC     : 0.7160
+RMSE       : 0.3428
