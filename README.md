@@ -32,7 +32,7 @@ your choice; pass the path via `--ppi-dir` / `--train-dir` / `--test-dir`.
 | Dataset  | Source |
 |----------|--------|
 | PPIRef   | https://github.com/anton-bushuiev/PPIRef |
-| STAG     | STAG-Net release |
+| STAG     | https://github.com/KavrakiLab/STAG_public |
 
 Replace the placeholder `path/to/data/` in the example commands below with
 your local data root.
